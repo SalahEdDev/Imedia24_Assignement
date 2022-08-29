@@ -11,7 +11,7 @@ A product shop api.
 * #### gradle 6.8.2
 * #### spring 2.4.3
 
-## Prerequisites
+## Prequisites
 * Docker
 
 ## Setting up the spring project
